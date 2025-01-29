@@ -9,3 +9,10 @@
   <img alt = "PHP" src = "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img alt = "Python" src = "https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
 </p>
+
+## 📊 My GitHub Stats 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kelvinsrcn&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinsrcn&layout=compact&theme=radical" alt="Top Languages" width="45%"/>
+</p>
