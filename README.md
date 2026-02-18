@@ -10,9 +10,10 @@
   <img alt = "Python" src = "https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
 </p>
 
+<!-- OUTDATED (prob)
 ## GitHub Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kelvinsrcn&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="45%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinsrcn&layout=compact&theme=radical" alt="Top Languages" width="45%"/>
-</p>
+</p> --/>
